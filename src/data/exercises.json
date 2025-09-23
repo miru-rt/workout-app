@@ -1,0 +1,14 @@
+[
+  {
+    "id": "squat",
+    "name": "Back Squat",
+    "muscleGroups": ["legs", "back"],
+    "svgPath": "/assets/squat.svg"
+  },
+  {
+    "id": "bench",
+    "name": "Bench Press",
+    "muscleGroups": ["chest", "arms"],
+    "svgPath": "/assets/bench.svg"
+  }
+]
